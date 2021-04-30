@@ -19,7 +19,7 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 ### :rocket: Status
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Happy 🚀 Em construção...  🚧
 </h4>
 
 ---
