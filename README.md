@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-    <a href="#headphones-about">About</a> | 
-    <a href="#computer-layout">Layout</a> | 
-    <a href="#microscope-technologies">Technologies</a> | 
-    <a href="#pencil2-author">Author</a> | 
+    <a href="#headphones-about">About</a>  • 
+    <a href="#computer-layout">Layout</a>  • 
+    <a href="#microscope-technologies">Technologies</a>  •  
+    <a href="#pencil2-author">Author</a>  •  
     <a href="#pencil-license">License</a>
 </p>
 
