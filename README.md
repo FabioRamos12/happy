@@ -16,7 +16,7 @@ Happy is a project developed to bring happiness to the world, connecting more pe
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
 
-### :rocket: About
+### :rocket: Status
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
